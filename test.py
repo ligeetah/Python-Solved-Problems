@@ -1,5 +1,2 @@
-import os
-os.system('cls')
+print(f"{}")
 
-
-print('hi')
